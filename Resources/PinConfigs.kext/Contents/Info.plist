@@ -10302,7 +10302,7 @@
 					<key>FuncGroup</key>
 					<integer>1</integer>
 					<key>LayoutID</key>
-					<integer>3</integer>
+					<integer>13</integer>
 					<key>WakeConfigData</key>
 					<data>AhcMAg==</data>
 					<key>WakeVerbReinit</key>
@@ -10367,7 +10367,7 @@
 					<key>FuncGroup</key>
 					<integer>1</integer>
 					<key>LayoutID</key>
-					<integer>3</integer>
+					<integer>11</integer>
 					<key>WakeConfigData</key>
 					<data>AhcMAg==</data>
 					<key>WakeVerbReinit</key>
